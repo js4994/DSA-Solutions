@@ -1,6 +1,6 @@
 # 📝 67. Add Binary (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/add-binary)
+🔗 [Problem Link](https://leetcode.com/problems/add-binary/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
