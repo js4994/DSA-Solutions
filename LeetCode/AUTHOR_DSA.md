@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 9 / 238 (3.8%)
+- **Completed:** 10 / 238 (4.2%)
 
 ---
 
@@ -281,7 +281,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Remove Nth Node From End of List
 - [ ] Delete Node in a Linked List
 - [ ] Delete the Middle Node of a Linked List
-- [ ] Remove Duplicates from Sorted List
+- [x] [Remove Duplicates from Sorted List](./Java/Easy/83. Remove Duplicates from Sorted List/)
 - [ ] Remove Linked List Elements
 - [x] [Merge Two Sorted Lists](./Java/Easy/21. Merge Two Sorted Lists/)
 - [ ] Rotate List
